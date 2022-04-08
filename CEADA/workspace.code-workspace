@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "CEADA",
+			"path": "."
+		},
+		{
+			"name": "Python clase",
+			"path": "..\\Python clase"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "cpp",
+			"random": "cpp",
+			"limits": "cpp",
+			"valarray": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}

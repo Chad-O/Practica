@@ -1,0 +1,1 @@
+{"name":"Local: DevsuA3","url":"c:\\Users\\Mauricio\\PycharmProjects\\CEADA\\DevsuA3.cpp","tests":[{"id":1629575146593,"input":"3 Greetings, this is AN EXAMPLE!","output":"GrEetIngS, ThiS iS An ExAMpLE!"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Mauricio\\PycharmProjects\\CEADA\\DevsuA3.cpp","group":"local","local":true}

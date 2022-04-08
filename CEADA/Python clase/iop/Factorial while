@@ -1,0 +1,9 @@
+def main():
+    n = int(input("Ingrese un número natural "))
+    f = 1
+    while(n>1):
+        f = f*n
+        n= n-1
+    print("El factorial es " , f)
+if __name__ == '__main__':
+    main()

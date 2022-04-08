@@ -1,0 +1,28 @@
+#include  <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+typedef vector<int> vi;
+typedef vector<ll> vl;
+#define MOD 1000000007
+void solve(){
+    int n,cont = 0;
+    vi v1(n),v2(n);
+    cin >> n;
+    for(int i = 0 ; i < n ; ++i){
+        cin >> v1[i] >> v2[i];
+    }
+    for(int i = 0 ; i < n ; ++i){
+        for(int j = 0 ; j < n ; ++j){
+            if(v1[i] == v2[j]){
+                cont++;
+            }
+        }
+    }
+    cout<<cont;
+}
+int main(int argc, const char** argv) {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    solve();
+    return 0;
+}

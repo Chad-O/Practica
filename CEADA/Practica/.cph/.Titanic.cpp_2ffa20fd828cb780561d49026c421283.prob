@@ -1,0 +1,1 @@
+{"name":"Local: Titanic","url":"c:\\Users\\Mauricio\\PycharmProjects\\CEADA\\Practica\\Titanic.cpp","tests":[{"id":1630096208417,"input":"1,0,3,\"Braund, Mr. Owen Harris\",male,22,1,0,A/5 21171,7.25,,S","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Mauricio\\PycharmProjects\\CEADA\\Practica\\Titanic.cpp","group":"local","local":true}
