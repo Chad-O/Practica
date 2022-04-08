@@ -9,6 +9,7 @@ ll n,cont;
 
 void solve(){
     cin >> n;
+    string m = "Prueba de commit";
     string val = " ";
     unordered_map<char,int> mp;
     for(int i = 0 ; i < n ; ++i){
